@@ -3,7 +3,7 @@
 Chest radiography, like many diagnostic medical exams, produces a long-tailed distribution of clinical findings; 
 while a small subset of diseases is routinely observed, the vast majority of diseases are relatively rare. 
 This poses a challenge for standard deep learning methods, which exhibit bias toward the most common classes at the expense of the important but rare "tail" classes. 
-Many existing methods [3] have been proposed to tackle this specific type of imbalance, though only recently has attention been given to long-tailed medical image recognition problems. 
+Many existing methods have been proposed to tackle this specific type of imbalance, though only recently has attention been given to long-tailed medical image recognition problems. 
 Diagnosis on chest X-rays (CXRs) is also a multi-label problem, as patients often present with multiple disease findings simultaneously; 
 however, only a select few studies incorporate knowledge of label co-occurrence into the learning process. 
 Since most large-scale image classification benchmarks contain single-label images with a mostly balanced distribution of labels, 

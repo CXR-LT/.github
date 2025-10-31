@@ -14,6 +14,7 @@ The CXR-LT challenge tasks will feature two main tasks: (i) long-tailed, multi-l
 
 ## Publications
 
+* Lin M, Holste G, Wang S, Zhou Y, Wei Y, Banerjee I, Chen P, Dai T, Du Y, Dvornek NC, Ge Y, Guo Z, Hanaoka S, Kim D, Messina P, Lu Y, Parra D, Son D, Soto Á, Urooj A, Vidal R, Yamagishi Y, Yan P, Yang Z, Zhang R, Zhou Y, Celi LA, Summers RM, Lu Z, Chen H, Flanders A, Shih G, Wang Z, Peng Y. CXR-LT 2024: A MICCAI challenge on long-tailed, multi-label, and zero-shot disease classification from chest X-ray. Med Image Anal. 2025 Dec;106:103739. doi: 10.1016/j.media.2025.103739. Epub 2025 Jul 29. PMID: 40795541; PMCID: PMC12396843.
 * Holste G, Zhou Y, Wang S, Jaiswal A, Lin M, Zhuge S, Yang Y, Kim D, Nguyen-Mau TH, Tran MT, Jeong J, Park W, Ryu J, Hong F, Verma A, Yamagishi Y, Kim C, Seo H, Kang M, Celi LA, Lu Z, Summers RM, Shih G, Wang Z, Peng Y. Towards long-tailed, multi-label disease classification from chest X-ray: Overview of the CXR-LT challenge. Med Image Anal. 2024 May 31;97:103224. doi: 10.1016/j.media.2024.103224. Epub ahead of print. PMID: 38850624.
 * Holste G, Jiang Z, Jaiswal A, Hanna M, Minkowitz S, Legasto A, Escalon J, Steinberger S, Bittman M, Ding Y, Shih G, Peng Y, Wang Z. How Does Pruning Impact Long-Tailed Multi-Label Medical Image Classifiers? Med Image Comput Comput Assist Interv. 2023 Oct;14224:663-673. doi: 10.1007/978-3-031-43904-9_64. Epub 2023 Oct 1. PMID: 37829549; PMCID: PMC10568970.
 

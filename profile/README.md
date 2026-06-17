@@ -22,4 +22,4 @@ The CXR-LT challenge tasks will feature two main tasks: (i) long-tailed, multi-l
 ## Research support
 
 * R01CA289249, NIH/NLM, 2024-2029
-* NSF CAREER Award, NSF, 2022-2026
+* NSF CAREER Award, NSF, 2022-2027

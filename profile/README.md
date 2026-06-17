@@ -1,6 +1,5 @@
-RAD-LT is an outgrowth of the former CXR-LT challenge series.
-
 ## About
+Continuing the legacy of the CXR-LT Shared Tasks
 
 Chest radiography, like many diagnostic medical exams, produces a long-tailed distribution of clinical findings; 
 while a small subset of diseases is routinely observed, the vast majority of diseases are relatively rare. 
